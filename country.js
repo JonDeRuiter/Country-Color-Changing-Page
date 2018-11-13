@@ -38,6 +38,12 @@ function SwitchCountry(value){
     else if (input === "Romania") {
         country = Romania;
     }
+    else if (input === "Greece"){
+        country = Greece;
+    }
+    else if (input === "IvoryCoast"){
+        country = IvoryCoast;
+    }
     else {
         //revert to baseline if something goes wrong
         country = null;
