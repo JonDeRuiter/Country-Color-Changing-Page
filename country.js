@@ -14,6 +14,8 @@ var Canada = new Country ("Canada", "English/French", "Hello World/Bonjour le mo
 var Ecuador = new Country ("Ecuador", "Spanish", "Hola Mundo", ["yellow", "blue", "red"]);
 var SouthKorea = new Country ("Korea, South", "Korean", "안녕하세요 세계", ["white", "red", "blue"]);
 var Romania = new Country ("Romania", "Romanian", "Salut Lume", ["blue", "yellow", "red"]);
+var IvoryCoast = new Country("IvoryCoast","French","Omlete Du Fromage",["gold","white","green"])
+var Greece = new Country ("Greece","Greek","Γειά σου Κόσμε",["blue","white","white"])
 
 
 function SwitchCountry(value){
